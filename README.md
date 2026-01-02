@@ -9,6 +9,14 @@ The goal is to convert raw transactional data into a **single source of truth** 
 
 ---
 
+DashBoard Overview
+
+<img width="1330" height="737" alt="Screenshot 2025-12-20 193726" src="https://github.com/user-attachments/assets/1fad9b07-6c9a-4b3a-84bc-a1b729d5afb1" />
+
+
+---
+
+
 ## 🎯 Business Objectives
 
 * Measure overall sales performance and revenue trends
